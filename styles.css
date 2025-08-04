@@ -1,0 +1,98 @@
+body {
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+}
+
+.header__title {
+    font-size: 30px;
+}
+
+.header__subtitle {
+    color: #5771ff;
+    font-size: 20   px;
+}
+
+main {
+    border: 1px solid darkgray;
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: #a233fd;
+}
+
+.video {
+    width: 95%;
+    height: 350px;
+    border: none;
+}
+
+.hobbies ul {
+    list-style: none;
+}
+
+.ed__table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.ed__table th,
+.ed__table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.quote {
+    font-size: 30px;
+}
+
+.form {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.form__control {
+    width: 100%;
+
+}
+
+.control--text{
+    width: 50%;
+}
+
+.form__btn {
+    display: block;
+    margin: 0 auto;
+
+}
+
+.form__control {
+
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: rgb(193, 195, 196);
+}
+
+.contacts__link {
+    text-decoration: none;
+    color: black;
+}
